@@ -7,7 +7,7 @@ from openpyxl import load_workbook
 from openpyxl.drawing.image import Image
 from datetime import datetime
 
-caminho = r"C:\Users\jjunior\OneDrive - Operador Nacional do Sistema Eletrico\Área de Trabalho\PROJETO INOVAE\Dessem Futuro\ds_ons_082025_rv2d10"
+caminho = #Local onde está os arquivos json e o entdados.dat a ser alterado
 
 os.chdir(caminho)
 
